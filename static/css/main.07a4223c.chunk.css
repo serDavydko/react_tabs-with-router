@@ -1,0 +1,2 @@
+body{margin:0}ul{background-color:#7fffd4;padding-left:0;margin:0 0 10px;display:flex;flex-direction:row;list-style-type:none;height:40px}li{margin:auto 12px}.link{text-decoration:none}.link:hover{display:block;color:#00f}.active-link{color:green}.active-link,.tab{text-decoration:none}.tab{margin:0 5px;display:inline-block;box-sizing:border-box;height:20px;width:50px;background-color:#7fffd4;text-align:center}.active-tab{text-decoration:underline;background-color:#fff;color:green}
+/*# sourceMappingURL=main.07a4223c.chunk.css.map */
